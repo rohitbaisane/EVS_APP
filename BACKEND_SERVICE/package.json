@@ -1,0 +1,25 @@
+{
+  "name": "eventmanagementproject",
+  "version": "1.0.0",
+  "description": "This is personal project for event management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Rohit Baisane",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "rascal": "^16.3.0",
+    "validator": "^13.9.0",
+    "winston": "^3.8.2"
+  }
+}

@@ -1,0 +1,6 @@
+FRONTNED_SERVICE/node_modules
+BACKEND_SERVICE/node_modules
+API_GATEWAY/node_modules
+FRONTNED_SERVICE/.env
+BACKEND_SERVICE/.env
+API_GATEWAY/.env
